@@ -31,7 +31,7 @@
     };
 
     // Hacemos el POST usando fetch
-    fetch('http://18.234.160.142/api/devices', {
+    fetch('http://44.203.212.7/api/devices', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
